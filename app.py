@@ -1316,8 +1316,6 @@ with tab3:
   <span class="tag">joblib</span>
   <br><br>
   <span style="opacity:.7; font-size:.82rem">
-  Dataset: Estimation of Obesity Levels Based On Eating Habits and Physical Condition · UCI ML Repository<br>
-  Autores: Fabio Mendoza Palechor, Alexis de la Hoz Manotas · doi: 10.1016/j.dib.2019.104344
   </span>
 </div>
     """, unsafe_allow_html=True)
