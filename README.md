@@ -1,4 +1,4 @@
-# 🏥 ObesityAI — Sistema Preditivo de Obesidade
+# ObesityAI — Sistema Preditivo de Obesidade
 
 Projeto desenvolvido no contexto da **Pós-Graduação em Data Analytics (FIAP POSTECH)**, com foco em **modelagem preditiva, feature engineering e deploy de aplicações de Machine Learning** aplicados à área da saúde.
 
@@ -183,7 +183,7 @@ tech_challenge_4_obesity_analysis/
 
 A aplicação está organizada em três abas:
 
-### 🔮 Predição Individual
+### Predição Individual
 Formulário completo com todas as variáveis do modelo. O usuário preenche seus hábitos de vida e recebe:
 - Classificação do nível de obesidade (7 classes)
 - Nível de confiança da predição
@@ -191,7 +191,7 @@ Formulário completo com todas as variáveis do modelo. O usuário preenche seus
 - Score de hábitos saudáveis (0–10)
 - IMC calculado de forma informativa (não usado no modelo)
 
-### 📊 Dashboard Analítico
+### Dashboard Analítico
 Painel interativo com filtros dinâmicos (gênero, faixa etária, nível de obesidade, atividade física, histórico familiar e origem dos dados). Inclui:
 - KPIs gerais da base filtrada
 - Distribuição de pacientes por nível e gênero
@@ -204,7 +204,7 @@ Painel interativo com filtros dinâmicos (gênero, faixa etária, nível de obes
 - Métricas de desempenho do modelo
 - Insights clínicos e recomendações médicas
 
-### 🧠 Como Funciona
+### Como Funciona
 Explicação acessível de todo o processo: origem dos dados, variáveis utilizadas, decisão sobre data leakage, comparação dos modelos testados, pipeline de deploy e como interpretar os resultados.
 
 ---
